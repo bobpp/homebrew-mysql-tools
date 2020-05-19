@@ -12,5 +12,5 @@ $ brew tap bobpp/mysql-tools
 $ brew install bobpp/mysql-tools/dbdeployer
 
 # install mysql-build
-$ brew install bobpp/mysql-tools/mysql-build
+$ brew install --HEAD bobpp/mysql-tools/mysql-build
 ```
